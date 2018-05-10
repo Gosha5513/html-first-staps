@@ -33,6 +33,10 @@
          
          <script src="index.js" type="text/javascript"></script>     
          
+<<<<<<< HEAD
  *Для подключения файла со стилями прописываем тег `<link>` с атребутами `rel="stylesheet" href="index.css"`    
 
 
+=======
+ *Для подключения файла со стилями прописываем тег `<link>` с атребутами `rel="stylesheet" href="index.css"`
+>>>>>>> d2e1520dad8b1ddf40064da73a768181116d795b
